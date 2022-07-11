@@ -1,4 +1,4 @@
-# Fun-es-Javascript
+# Funções_Javascript
 Atividade do Bootcamp Santander  - Javascript - "Funções" 
 
 Atividade 1: Alunos Aprovados
